@@ -15,13 +15,13 @@
 My Profile v2.0.2: 破壊「はかい」
 -------------------------------
 Username: 9gatsu28nichi.
-WhoamI: a high school student, Graphic designer, Game developer, Hacker, and Blogger.
+WhoamI: Graphic designer, Game developer, Artist, Photographer.
 FavouriteAnime: Violet Evergarden (Change my thought about life that life is a journey), Girls' Last Tour (Best at doubt about life), and New Game! (Gave me dream to become Game developer)
 Loves: Anime ( ω ), Videogames , Blogging, and reading psychology books.
 Pronouns: He-Him.
 Location: Sputnik Sweetheart.
-Languages: Html, Css, C#, Python, Javascript.
-Learning: Nodejs.
+Languages: Html, Css, C#, Python, C.
+Learning: C
 FavouriteSong: Shelter, 米津玄師 - Lemon Kenshi Yonezu.
 FavouriteEquation: comedy = tragedy + times. 
 Hobbies: Gaming, Watching anime, Coding, Illustrating, and 3D modelling.
@@ -55,7 +55,7 @@ My Favourite singers (アイドル): YOASOBIのYouTubeチャンネルです, Eve
 <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
-<p align = "justify"> Hi, I'm Shun (Radhabhumi Pangkanont). I'm just an ordinary high school student who excels in both artistic creativity and analytical reasoning. I am particularly intrigued by the domains of cybersecurity, game programming, 3D modelling, and graphic design. My programming languages are Java Script, CSS, HTML, C# (for only Unity game engine), Python, and Shell. In other hand, My knowledge languages are Thai (Native) and English (B2 ~ C1). Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
+<p align = "justify"> Hi, I'm Shun (Radhabhumi Pangkanont). I am particularly intrigued by the domains of cybersecurity, game programming, 3D modelling, and graphic design. My programming languages are C, CSS, HTML, C# (for only Unity game engine), Python, and Shell. In other hand, My knowledge languages are Thai (Native), English (B2 ~ C1), Japanese (< N5) Check my repositories and give your opinion I'll do my best and be better every day. Finally, I love watching anime. <br></p>
 <p align = "center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="36" height="36" />  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
