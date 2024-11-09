@@ -20,8 +20,8 @@ FavouriteAnime: Violet Evergarden (Change my thought about life that life is a j
 Loves: Anime ( ω ), Videogames , Blogging, and reading psychology books.
 Pronouns: He-Him.
 Location: Sputnik Sweetheart.
-Languages: Html, Css, C#, Python, Javascript.
-Learning: Nodejs.
+Languages: C and Python.
+Learning: GLSL and SQL.
 FavouriteSong: Shelter, 米津玄師 - Lemon Kenshi Yonezu.
 FavouriteEquation: comedy = tragedy + times. 
 Hobbies: Gaming, Watching anime, Coding, Illustrating, and 3D modelling.
